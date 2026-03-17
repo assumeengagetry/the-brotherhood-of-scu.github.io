@@ -1,21 +1,165 @@
+- name: Chingo_Hack
+  en_name: Chingo_Hack
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/Chingo_Hack
 
-- name: 抢课助手
-  en_name: Course Catcher
-  description: 泥川抢课助手
-  cover: images/projects/course-catcher.avif
+- name: rubbish_plan
+  en_name: rubbish_plan
+  description: 混沌课表
+  link: https://github.com/The-Brotherhood-of-SCU/rubbish_plan
+
+- name: Advanced-SCU_course_catcher
+  en_name: Advanced-SCU_course_catcher
+  description: 川大选课助手
   link: https://github.com/The-Brotherhood-of-SCU/Advanced-SCU_course_catcher
-  preview: 
 
-- name: QQ机器人框架
-  en_name: QQ Robot Framework
-  description: 实现QQ机器人的模块化开发，以插件的形式增加功能
-  cover: images/projects/qq-bot-framework.avif
+- name: SCU-2ndclass-AutoResolve
+  en_name: SCU-2ndclass-AutoResolve
+  description: 正在开发中，功能尚不完整
+  link: https://github.com/The-Brotherhood-of-SCU/SCU-2ndclass-AutoResolve
+
+- name: SCU-Openlesson-AutoLearner
+  en_name: SCU-Openlesson-AutoLearner
+  description: 自动学习四川大学公开课（特指新生实验室安全课）
+  link: https://github.com/The-Brotherhood-of-SCU/SCU-Openlesson-AutoLearner
+
+- name: SCU-2ndClass-QuickResolve
+  en_name: SCU-2ndClass-QuickResolve
+  description: 四川大学第二课堂活动的半自动报名，签到，签退，评论一体化工具
+  link: https://github.com/The-Brotherhood-of-SCU/SCU-2ndClass-QuickResolve
+
+- name: SCU-Ecourse-Helper-4-Edge
+  en_name: SCU-Ecourse-Helper-4-Edge
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/SCU-Ecourse-Helper-4-Edge
+
+- name: SCU-Ecourse-Helper
+  en_name: SCU-Ecourse-Helper
+  description: 大川学堂自动水课控制台脚本
+  link: https://github.com/The-Brotherhood-of-SCU/SCU-Ecourse-Helper
+
+- name: SCU-2ndClass-QRGen-Android
+  en_name: SCU-2ndClass-QRGen-Android
+  description: 四川大学第二课堂活动的签到/签退二维码生成工具，支持通过报名网址一键生成签到和签退二维码及链接，便于扫码或分享
+  link: https://github.com/The-Brotherhood-of-SCU/SCU-2ndClass-QRGen-Android
+
+- name: SCU-2ndClass-QRGen
+  en_name: SCU-2ndClass-QRGen
+  description: 四川大学第二课堂活动的签到/签退二维码生成工具，支持通过报名网址一键生成签到和签退二维码及链接，便于扫码或分享
+  link: https://github.com/The-Brotherhood-of-SCU/SCU-2ndClass-QRGen
+
+- name: SCU-second-class-QRcoder
+  en_name: SCU-second-class-QRcoder
+  description: 一键生成第二课堂签到签退码
+  link: https://github.com/The-Brotherhood-of-SCU/SCU-second-class-QRcoder
+
+- name: teeter-transplant
+  en_name: teeter-transplant
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/teeter-transplant
+
+- name: Course-Catcher-JS
+  en_name: Course-Catcher-JS
+  description: 简易版的抢课脚本
+  link: https://github.com/The-Brotherhood-of-SCU/Course-Catcher-JS
+
+- name: Public_plugins_rust
+  en_name: Public_plugins_rust
+  description: Public plugins for QQbot-5.0
+  link: https://github.com/The-Brotherhood-of-SCU/Public_plugins_rust
+
+- name: QQ-bot-framework
+  en_name: QQ-bot-framework
+  description: QQ机器人
   link: https://github.com/The-Brotherhood-of-SCU/QQ-bot-framework
-  preview: 
 
-- name: HeRui课堂回放
-  en_name: HeRui Recordings
-  description: 记录大师herui的课堂录音
-  cover: images/projects/herui-recordings.avif
+- name: cg-data
+  en_name: cg-data
+  description: 四川大学创高体育理论题库(停止维护
+  link: https://github.com/The-Brotherhood-of-SCU/cg-data
+
+- name: cg-answer
+  en_name: cg-answer
+  description: 在线创高题库搜索(停止维护
+  link: https://github.com/The-Brotherhood-of-SCU/cg-answer
+
+- name: math-model
+  en_name: math-model
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/math-model
+
+- name: Public_plugins
+  en_name: Public_plugins
+  description: Public plugins for Arona bot
+  link: https://github.com/The-Brotherhood-of-SCU/Public_plugins
+
+- name: mc_plugin
+  en_name: mc_plugin
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/mc_plugin
+
+- name: Tower-Defense-Game
+  en_name: Tower-Defense-Game
+  description: A Tower Defense Game made from C++
+  link: https://github.com/The-Brotherhood-of-SCU/Tower-Defense-Game
+
+- name: LiteCourseTable
+  en_name: LiteCourseTable
+  description: 一个使用c++实现的小巧的课程表
+  link: https://github.com/The-Brotherhood-of-SCU/LiteCourseTable
+
+- name: 8086_interpreter
+  en_name: 8086_interpreter
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/8086_interpreter
+
+- name: TheyChatGuideline
+  en_name: TheyChatGuideline
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/TheyChatGuideline
+
+- name: TheyChatServer
+  en_name: TheyChatServer
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/TheyChatServer
+
+- name: SDL_test
+  en_name: SDL_test
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/SDL_test
+
+- name: TheyChat
+  en_name: TheyChat
+  description: 暂无描述
+  link: https://github.com/The-Brotherhood-of-SCU/TheyChat
+
+- name: herui_record
+  en_name: herui_record
+  description: This repo stores HeRui's voice record in release
   link: https://github.com/The-Brotherhood-of-SCU/herui_record
-  preview: 
+
+- name: DormRunning
+  en_name: DormRunning
+  description: (不能正常使用)to mock running process
+  link: https://github.com/The-Brotherhood-of-SCU/DormRunning
+
+- name: Happy_Running
+  en_name: Happy_Running
+  description: Deprecated
+  link: https://github.com/The-Brotherhood-of-SCU/Happy_Running
+
+- name: herui_saying_generate
+  en_name: herui_saying_generate
+  description: AI herui
+  link: https://github.com/The-Brotherhood-of-SCU/herui_saying_generate
+
+- name: SCUCourseSelectHelper-master
+  en_name: SCUCourseSelectHelper-master
+  description: In memory of the past and the precious cultural legacy
+  link: https://github.com/The-Brotherhood-of-SCU/SCUCourseSelectHelper-master
+
+- name: SCU_Resource
+  en_name: SCU_Resource
+  description: 一些SCU教学资源
+  link: https://github.com/The-Brotherhood-of-SCU/SCU_Resource
+

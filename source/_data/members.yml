@@ -1,0 +1,362 @@
+## 组织成员
+# name:         成员名称
+# github:       GitHub 用户名
+# role:         角色/职位
+# bio:          简介
+# avatar:       头像（留空则使用 GitHub 头像）
+
+- name: 57U
+  github: 57UU
+  role: Founder
+  bio: 全栈开发者，热爱开源
+
+- name: assume engage
+  github: assumeengagetry
+  role: Founder
+  bio: a Sophomore in SCU
+
+- name: Hanfeng23333
+  github: Hanfeng23333
+  role: Founder
+  bio: 全栈开发者，热爱开源
+
+- name: 泊松不分布
+  github: jeanhua
+  role: Founder
+  bio: Student
+
+- name: PantheraLeo
+  github: PantheraLeo14
+  role: Founder
+  bio: 全栈开发者，热爱开源
+
+- name: SeeleVollerei
+  github: SeeleVollerei-Official
+  role: Founder
+  bio: Official AI account for SeeleVollerei.
+
+- name: Simpidbit
+  github: Simpidbit
+  role: Founder
+  bio: An undergraduate student majoring in CS at Sichuan University. Love open-source programs.
+
+- name: Kevin Wang
+  github: wjlfish
+  role: Founder
+  bio: Student
+
+- name: Lu Chuhan
+  github: acidkonoyo
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: AGM54C
+  github: AGM54C
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: BapKlonely
+  github: BapKlonely
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: ccr39
+  github: ccr39
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: chaoqun hao
+  github: chaoQQQ
+  role: Member
+  bio: 20231414600100@stu.scu.edu.cn
+
+- name: cheneleven625
+  github: cheneleven625
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Ping-Yeh Chou
+  github: cloud-zby
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Crane33A
+  github: Crane33A
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: cryfly666
+  github: cryfly666
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: David W
+  github: D-RF-W
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Daking
+  github: dakingffo
+  role: Member
+  bio: An undergraduate student interested in high performance system and AI infra.
+
+- name: Ruiming Guo (郭睿明)
+  github: Dandelight
+  role: Member
+  bio: To be professional.
+
+- name: Elessar2077
+  github: Elessar2077
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: ff66ccff
+  github: ff66ccff
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Frank126Xu
+  github: Frank126Xu
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: CiKo
+  github: G2-CiKo
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: HongHui Zhang
+  github: gamefreshman
+  role: Member
+  bio: A GameFreshMan, CSer, SCUmaker
+
+- name: GanbarNaito
+  github: GanbarNaito
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Geek66666
+  github: Geek66666
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Gao Yixin
+  github: Gyxqq
+  role: Member
+  bio: a student
+
+- name: heiyachou
+  github: heiyachou
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: huangbaqian
+  github: huangbaqian
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: 林栀夏
+  github: ImZhiXia
+  role: Member
+  bio: 老爹 @jeanhua
+
+- name: Jiaxi Huang
+  github: Jiaxi-Huang
+  role: Member
+  bio: Coffee for night. Coding for life
+
+- name: Li Zhuhuan
+  github: JuneH21
+  role: Member
+  bio: I am Li Zhuhuan,a student in scu university.I want to study in Github.
+
+- name: 纪绫
+  github: Kilin-JiLing
+  role: Member
+  bio: 纪绫，一介书生。
+
+- name: lalala
+  github: lalala-233
+  role: Member
+  bio: Just for fun.
+
+- name: lanzhi2709
+  github: lanzhi2709
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: lazyapo
+  github: lazyapo
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Lijia Sun
+  github: LianjinSe
+  role: Member
+  bio: A postgraduate student majoring in Computer Science at Sichuan University.
+
+- name: Aboy
+  github: llj123456789
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Zhuoyao Liu
+  github: lzyyyyy666
+  role: Member
+  bio: My name is Zhuoyao Liu, a junior student at Sichuan University. My research direction is multimodal retrieval and MLLMs.
+
+- name: meteor
+  github: meteor-liu-xinyu
+  role: Member
+  bio: I am a student at Sichuan University, Jiang'an Campus
+
+- name: moyan79
+  github: moyan79
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: REflectionIso
+  github: REflectionIso
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Feng Yang
+  github: rlxc4
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: TL_LPJ
+  github: SCU-LPJ
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: SDLTF
+  github: SDLTF
+  role: Member
+  bio: A student in  Sichuan University, who study math and AI techonogy
+
+- name: seven77-caiji
+  github: seven77-caiji
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: silenzio111
+  github: silenzio111
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: √Y
+  github: Slimzeo
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: SoYi
+  github: SoYiQwQ
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Junlin Li
+  github: Squidwa2d
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: gnahz
+  github: SunkInDream
+  role: Member
+  bio: student of scu
+
+- name: TangYi
+  github: tangyidadawang
+  role: Member
+  bio: A student from the Department of Medical Information Engineering at the School of Biomedical Engineering, Sichuan University
+
+- name: TermV
+  github: Terminal-Void
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: TexasOct
+  github: TexasOct
+  role: Member
+  bio: 🦀
+
+- name: tfdtamy
+  github: tfdtamy
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Tian Mingyu
+  github: tianmy0388
+  role: Member
+  bio: Hi, I am Tian Mingyu, a student majoring in AI.
+
+- name: TiramisuQiao
+  github: TiramisuQiao
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: tomorin-gugugaga
+  github: tomorin-gugugaga
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: tt619252615
+  github: tt619252615
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Wall-Leg-Sao-Gun
+  github: Wall-Leg-Sao-Gun
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: wsqept
+  github: wsqept
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: 黑心老昔年
+  github: XiNian-dada
+  role: Member
+  bio: a normal fu*king guy
+
+- name: Wu Yifei
+  github: xinsuhan
+  role: Member
+  bio: I am a college student at Sichuan University interested in computer science.
+
+- name: Chen Yijia
+  github: xyjyuechu
+  role: Member
+  bio: I am a student studing in Sichuan university.  My current research interest is in anomaly detection now.
+
+- name: Constellation
+  github: YangT1an
+  role: Member
+  bio: SCUのfw小登
+
+- name: Ye Yixiang
+  github: yeyixiang2007
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: 鱼幼薇
+  github: youweiyu
+  role: Member
+  bio: Why not?
+
+- name: Ys-zl
+  github: Ys-zl
+  role: Member
+  bio: 全栈开发者，热爱开源
+
+- name: Jianhao Zhang
+  github: ZJH2O
+  role: Member
+  bio: Sichuan University, major in CS
+
+- name: Zyx
+  github: Zyx-SCU
+  role: Member
+  bio: 全栈开发者，热爱开源
+
