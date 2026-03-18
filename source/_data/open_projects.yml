@@ -1,9 +1,9 @@
-## 项目案例
-# name:         标题
-# en_name:      英文标题
+## 开源项目 (对应模板 page/stories.ejs)
+# name:         项目名称
+# en_name:      英文名称
 # description:  描述内容
 # cover:        封面图片路径
-# link:         链接路径，无链接为空即可
+# link:         项目链接，无链接为空即可
 # preview:      预览路径，无则可以为空
 #
 

@@ -1,6 +1,6 @@
-## 客户 LOGO 墙
-# name:         客户名称
-# cover:        客户 LOGO 路径
+## 品牌/合作方 LOGO 墙 (对应模板 instapic.ejs，字段名沿用原主题)
+# name:         名称
+# cover:        LOGO 图片路径
 #
 - name: LOGO
   cover: /images/brand.png

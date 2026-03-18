@@ -1,10 +1,3 @@
-## Index Section
-# name:         客户名称
-# title:        大标题
-# subtitle:     小标题，描述性
-#
-
-
 - name: archive
   id: 
   title: Blog
@@ -18,7 +11,7 @@
   id: 
   title: Open Source Projects
   subtitle: 有趣的开源项目
-  partial: page/stories
+  partial: page/open_projects
   bg_color: bg-light
   fluid: 
   more: https://github.com/The-Brotherhood-of-SCU
@@ -28,7 +21,7 @@
   id: 
   title: Open Source Documents
   subtitle: 实用的开源文档
-  partial: pricing
+  partial: open_docs
   bg_color: 
 
 
@@ -40,21 +33,3 @@
   bg_color: bg-light
   fluid: 
   more: 
-
-# - name: album
-#   id: 
-#   title: 画廊
-#   subtitle: 只需要改变 2 个颜色就会让你的站点焕然一新
-#   partial: album
-#   bg_color: 
-#   fluid: 
-#   more: 
-
-
-# - name: solution
-#   id: 
-#   title: 解决方案
-#   subtitle: 品质源于专业 服务彰显真诚
-#   partial: solution
-#   bg_color: 
-

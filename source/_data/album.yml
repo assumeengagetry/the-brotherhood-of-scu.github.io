@@ -1,4 +1,4 @@
-## 专辑
+## 画廊/相册 (对应模板 album.ejs，字段名沿用原主题)
 # name:         标题
 # en_name:      英文标题
 # description:  描述内容
