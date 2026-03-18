@@ -24,7 +24,7 @@
 - name: Hexo主题Acorn-Ext
   en_name: Acorn-Ext Theme for Hexo
   description: 为organization定制的Hexo主题，基于Acorn。
-  cover: /images/projects/acorn-ext.avif
+  cover: /images/projects/theme.png
   link: /acorn-ext
   preview: 
 
